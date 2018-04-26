@@ -21,7 +21,7 @@ Plan:
 [Projects](/projects.html)
 
 Messaging:
-* Matrix: @sixthhokage1:matrix.unionroom.xyz
+<!-- * Matrix: @sixthhokage1:matrix.unionroom.xyz -->
 * XMPP: sixth@tropi.us
 * Discord: sixthhokage1#0664
 
