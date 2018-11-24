@@ -26,7 +26,7 @@ Messaging:
 * Discord: sixthhokage1#0664
 
 Social media & web presence:
-[Blog](https://blog.sixy.name)
+<a rel="me" href="https://blog.sixy.name">Blog</a>
 <a rel="me" href="https://jubi.life/@sixthhokage95">Mastodon</a>
 [Twitter](https://twitter.com/Sixthhokage95)
 [Tumblr](https://sixthhokage1.tumblr.com)
