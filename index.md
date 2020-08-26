@@ -21,16 +21,18 @@ Plan:
 [Projects](/projects.html)
 
 Messaging:
-<!-- * Matrix: @sixthhokage1:matrix.unionroom.xyz -->
+* Matrix: @sixthhokage95:cybre.space
 * XMPP: sixth@tropi.us
 * Discord: sixthhokage1#0664
 
 Social media & web presence:
-<a rel="me" href="https://blog.sixy.name">Blog</a>
+<!-- <a rel="me" href="https://blog.sixy.name">Blog</a> -->
+Blog*
 <a rel="me" href="https://jubi.life/@sixthhokage95">Mastodon</a>
 [Twitter](https://twitter.com/Sixthhokage95)
 [Tumblr](https://sixthhokage1.tumblr.com)
-[Pillowfort](https://www.pillowfort.social/Sixthhokage1)
 [tilde.town](http://tilde.town/~sixthhokage1)
 [GitHub](https://github.com/Sixthhokage1)
 [YouTube](https://www.youtube.com/user/Sixthhokage95)
+
+*: Due to me completely borking the server and lacking backups, my blog needs to be remade when I make the time to do so.
