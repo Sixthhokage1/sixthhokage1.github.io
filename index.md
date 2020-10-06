@@ -20,6 +20,8 @@ Plan:
 
 [Projects](/projects.html)
 
+[Support me](/support.html)
+
 Messaging:
 * Matrix: @sixthhokage95:cybre.space
 * Discord: sixthhokage1#0664
