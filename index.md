@@ -28,7 +28,7 @@ Messaging:
 * XMPP: sixth@tropi.us
 
 Social media & web presence:
-<a rel="me" href="https://blog.sixy.name">Blog</a>
+<!-- <a rel="me" href="https://blog.sixy.name">Blog</a> -->Blog (pending recreation after another catastrophic failure)
 <a rel="me" href="https://jubi.life/@sixthhokage95">Mastodon</a>
 [Twitter](https://twitter.com/Sixthhokage95)
 [Tumblr](https://sixthhokage1.tumblr.com)
