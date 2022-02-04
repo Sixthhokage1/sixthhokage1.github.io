@@ -23,7 +23,8 @@ Plan:
 [Support me](/support.html)
 
 Messaging:
-* Matrix: @sixthhokage95:cybre.space
+* Matrix: @sixthhokage1:unionroom.xyz
+  * Backup: @sixthhokage95:cybre.space
 * Discord: sixthhokage1#0664
 * XMPP: sixth@tropi.us
 
