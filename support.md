@@ -3,7 +3,7 @@ layout: default
 title: "~/support"
 ---
 
-If you wanna financially support me and the things I do, you can click the PayPal donation button below.
+If you wanna financially support me and the things I do, you can click the PayPal donation button below. You can also check my [wishlists](https://elmlab.xyz/Sixthhokage1/Wishlist) if you want to send me money for something specific (just leave a note in the PayPal donation).
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
